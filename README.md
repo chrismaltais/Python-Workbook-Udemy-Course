@@ -10,3 +10,5 @@ My solutions to the Udemy course "The Python Workbook: Solve 100 Exercises" by A
 **simple_dictionary**: A `dict` function is another way to create a dictionary. `dict` is also used to convert other objects to a dictionary.
 
 **key_error**: A `KeyError` always means Python could not find a key with the name shown next to `KeyError`
+
+**add_dictionary_key**: You cannot fix the order of the dictionary items. Dictionaries are unordered collections of items.
