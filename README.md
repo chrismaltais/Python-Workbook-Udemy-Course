@@ -16,4 +16,4 @@ My solutions to the Udemy course "The Python Workbook: Solve 100 Exercises" by A
 **liquid_volume_calculator**: Non-default arguments must come before default arguments. i.e. `def foo(b, a= 2):` 
 Rule stems from idea: If vice versa occured and only one value was inputted as an argument, would the value be assigned as the default or non-default? Therefore helps simplify
 
-**count_words**: Note - this script must run through the file twice, once to replace commas with spaces, then once to split the string using spaces as delimiters. Therefore, if we have n delimiters, we must manually change the code, and will have to run through the file n times. **Not good! :(**
+**count_words**: Note - this script must run through the file twice, once to replace commas with spaces, then once to split the string using spaces as delimiters. Therefore, if we have _n_ delimiters, we must manually change the code, and will have to run through the file _n_ times. **Not good! :(**
