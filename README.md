@@ -29,3 +29,6 @@ print(zipped)
 x2, y2 = zip(*zipped)
 print(x == list(x2) and y == list(y2))
 >>> True
+```
+
+**conditioned_letter_extractor**: The `glob` module finds all the pathnames matching a specified pattern according to the rules used by the Unix shell, although results are returned in arbitrary order. Good for creating a list of required pathnames.
